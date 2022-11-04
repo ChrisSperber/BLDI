@@ -1,6 +1,7 @@
 # Bayesian Lesion-Deficit Inference Toolkit
 written by Christoph Sperber, 2022, University of Bern
 
+For use with R software and the BayesFactor Package
 
 ## More information and usage
 For information on Bayesian Lesion-Deficit Inference see the paper by Sperber, Gallucci, Smaczny & Umarova 
